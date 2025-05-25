@@ -1,4 +1,3 @@
-# Thesis
 # Estimating the Global Electricity Demand (Gwh) by Country-wise
 
 ## ABSTRACT
