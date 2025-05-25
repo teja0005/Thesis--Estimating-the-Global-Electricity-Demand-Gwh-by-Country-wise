@@ -1,4 +1,4 @@
-# Thesis--Estimating-the-Global-Electricity-Demand-Gwh-by-Country-wise
+# Thesis--Estimating the Global Electricity Demand (Gwh) by Country-wise
 
 ## ABSTRACT
 The energy management system (EMS) is becoming increasingly 
